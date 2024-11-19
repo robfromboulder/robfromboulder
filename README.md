@@ -45,37 +45,34 @@ I have full-stack experience with multi-language projects, distributed databases
 </p>
 <br/>
 
-## My podcast appearances
+## My conference and podcast appearances
 
-I really enjoy doing podcasts that explore the impact of tech on business and the human condition.
+### APIs and API security
 
-* [Enterprise Security Weekly: Top 5 Myths About API Security and What to Do Instead](https://www.youtube.com/watch?v=Gr8i2g8KGHM)
+* [Nordic APIs: API discovery from crawl to run](https://www.youtube.com/watch?v=JLW9ArYFBAU)
+* [apidays HK: If we know what APIs are, why can't we count them?](https://www.youtube.com/watch?v=c1AccMF4kho)
 * [Beyond the Byte with Joe and Abe: What's the deal with API Security?](https://www.youtube.com/watch?v=JB7ISHhbme4)
 * ["Breaking Changes" Podcast with Kin Lane: API Observability through an API system of record](https://www.postman.com/events/breaking-changes/api-observability-through-an-api-system-of-record/)
 * [Technically Human Podcast: Cybersecurity in the age of zero trust](https://www.etcalpoly.org/the-technically-human-podcast/cybersecurity-in-the-age-of-zero-trust)
-* [Trino Community Broadcast: Trino connector resurfaces API calls](https://www.youtube.com/watch?v=dl5IKimBhrM&t=3s)
 * [PivotPoint Security: What you need to know about APIs and API security](https://www.pivotpointsecurity.com/podcasts/ep97-rob-dickinson-what-you-need-to-know-about-apis-and-api-security/)
 * [Resurface Labs: The art of API security](https://youtu.be/rq1w1oIj8Fs)
 * [Data Leadership Lessons: Democratizing APIs with Rob Dickinson](https://www.youtube.com/watch?v=gqhTfu1Ui_I)
 * [Tech & Main Presents: What is continuous API security?](https://anchor.fm/techandmain/episodes/Continuous-API-Security--Rob-Dickinson-e1dcea4/a-a425que)
-* [Automated Podcast: Why is Cybersecurity so important for our future?](https://automatedpodcast.org/why-is-cybersecurity-so-important-for-our-future-with-rob-dickinson-ep-90/)
 * [Innovation Files Podcast: How APIs are transforming the internet](https://itif.org/publications/2022/01/03/podcast-how-apis-are-transforming-internet-rob-dickinson/)
-* [That Tech Show Podcast: Retro gaming and API security with Rob Dickinson](https://thattech.show/episodes/57-retro-gaming-and-api-security-with-rob-dickinson)
-* [Industrial IoT Spotlight: Enabling the M2M internet with secure APIs](https://podbay.fm/p/industrial-iot-spotlight/e/1641543356)
-* [Innected Podcast: The 12 startups man](https://www.youtube.com/watch?v=GNqHofPgqkQ)
-<br/>
-
-## My conference presentations
-
-I love speaking at technical conferences, especially on the topics of API security and big-data technologies.
-
-* [Nordic APIs: API discovery from crawl to run](https://www.youtube.com/watch?v=JLW9ArYFBAU)
-* [apidays HK: If we know what APIs are, why can't we count them?](https://www.youtube.com/watch?v=c1AccMF4kho)
 * [OWASP Global: Sufficient logging and monitoring](https://www.youtube.com/watch?v=7RPh7JWaS9o)
 * [apidays Australia: Shifting out of triage mode with a failing API](https://www.youtube.com/watch?v=py2H2DSZBMM)
 * [apidays London: Securing PII at runtime](https://www.youtube.com/watch?v=Ktjhav1-G3U)
+* [That Tech Show Podcast: Retro gaming and API security with Rob Dickinson](https://thattech.show/episodes/57-retro-gaming-and-api-security-with-rob-dickinson)
+* [Industrial IoT Spotlight: Enabling the M2M internet with secure APIs](https://podbay.fm/p/industrial-iot-spotlight/e/1641543356)
+
+### Databases and Trino
+
 * [Percona Live: Shifting from capture-first to query-first database architectures](https://youtu.be/buUmoQaRETo)
 * [Percona Live: Why we chose Trino for a primary datastore](https://www.youtube.com/watch?v=ztotHLeWsBo)
+* [Trino Community Broadcast: Trino connector resurfaces API calls](https://www.youtube.com/watch?v=dl5IKimBhrM&t=3s)
+
+### Persistent memory
+
 * [Intel Developer Zone: Introduction to pmemkv](https://www.youtube.com/watch?v=rdDlWAN4KAc)
 * [StrangeLoop: Promise and Pitfalls of persistent memory](https://www.youtube.com/watch?v=VE1hCUMLHX4)
 * [O'Reilly Velocity: 4 things I wish I knew sooner about persistent memory](https://www.oreilly.com/library/view/velocity-conference-2017/9781491976340/video314553.html)
