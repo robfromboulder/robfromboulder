@@ -67,6 +67,7 @@ I have full-stack experience with multi-language projects, distributed databases
 
 ### Trino and databases
 
+* [Trino Summit 2024: Virtual view hierarchies with Trino](https://youtu.be/z8eh_3vBpvg) **NEW!**
 * [Percona Live: Shifting from capture-first to query-first database architectures](https://youtu.be/buUmoQaRETo)
 * [Percona Live: Why we chose Trino for a primary datastore](https://www.youtube.com/watch?v=ztotHLeWsBo)
 * [Trino Community Broadcast: Trino connector resurfaces API calls](https://www.youtube.com/watch?v=dl5IKimBhrM&t=3s)
