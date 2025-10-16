@@ -47,6 +47,13 @@ I have full-stack experience with multi-language projects, distributed databases
 
 ## My conference and podcast appearances
 
+### Trino and databases
+
+* [Trino Summit 2024: Virtual view hierarchies with Trino](https://youtu.be/z8eh_3vBpvg) **NEW!**
+* [Percona Live: Shifting from capture-first to query-first database architectures](https://youtu.be/buUmoQaRETo)
+* [Percona Live: Why we chose Trino for a primary datastore](https://www.youtube.com/watch?v=ztotHLeWsBo)
+* [Trino Community Broadcast: Trino connector resurfaces API calls](https://www.youtube.com/watch?v=dl5IKimBhrM&t=3s)
+
 ### APIs and API security
 
 * [Nordic APIs: API discovery from crawl to run](https://www.youtube.com/watch?v=JLW9ArYFBAU)
@@ -64,13 +71,6 @@ I have full-stack experience with multi-language projects, distributed databases
 * [apidays London: Securing PII at runtime](https://www.youtube.com/watch?v=Ktjhav1-G3U)
 * [That Tech Show Podcast: Retro gaming and API security with Rob Dickinson](https://thattech.show/episodes/57-retro-gaming-and-api-security-with-rob-dickinson)
 * [Industrial IoT Spotlight: Enabling the M2M internet with secure APIs](https://podbay.fm/p/industrial-iot-spotlight/e/1641543356)
-
-### Trino and databases
-
-* [Trino Summit 2024: Virtual view hierarchies with Trino](https://youtu.be/z8eh_3vBpvg) **NEW!**
-* [Percona Live: Shifting from capture-first to query-first database architectures](https://youtu.be/buUmoQaRETo)
-* [Percona Live: Why we chose Trino for a primary datastore](https://www.youtube.com/watch?v=ztotHLeWsBo)
-* [Trino Community Broadcast: Trino connector resurfaces API calls](https://www.youtube.com/watch?v=dl5IKimBhrM&t=3s)
 
 ### Persistent memory
 
