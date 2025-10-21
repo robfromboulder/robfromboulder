@@ -56,6 +56,7 @@ I have full-stack experience with multi-language projects, distributed databases
 
 ### APIs and API security
 
+* [Data Leadership Lessons: Democratizing APIs with Rob Dickinson](https://www.youtube.com/watch?v=gqhTfu1Ui_I)
 * [Nordic APIs: API discovery from crawl to run](https://www.youtube.com/watch?v=JLW9ArYFBAU)
 * [apidays HK: If we know what APIs are, why can't we count them?](https://www.youtube.com/watch?v=c1AccMF4kho)
 * [Beyond the Byte with Joe and Abe: What's the deal with API Security?](https://www.youtube.com/watch?v=JB7ISHhbme4)
@@ -63,7 +64,6 @@ I have full-stack experience with multi-language projects, distributed databases
 * [Technically Human Podcast: Cybersecurity in the age of zero trust](https://www.etcalpoly.org/the-technically-human-podcast/cybersecurity-in-the-age-of-zero-trust)
 * [PivotPoint Security: What you need to know about APIs and API security](https://www.pivotpointsecurity.com/podcasts/ep97-rob-dickinson-what-you-need-to-know-about-apis-and-api-security/)
 * [Resurface Labs: The art of API security](https://youtu.be/rq1w1oIj8Fs)
-* [Data Leadership Lessons: Democratizing APIs with Rob Dickinson](https://www.youtube.com/watch?v=gqhTfu1Ui_I)
 * [Tech & Main Presents: What is continuous API security?](https://anchor.fm/techandmain/episodes/Continuous-API-Security--Rob-Dickinson-e1dcea4/a-a425que)
 * [Innovation Files Podcast: How APIs are transforming the internet](https://itif.org/publications/2022/01/03/podcast-how-apis-are-transforming-internet-rob-dickinson/)
 * [OWASP Global: Sufficient logging and monitoring](https://www.youtube.com/watch?v=7RPh7JWaS9o)
