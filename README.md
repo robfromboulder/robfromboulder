@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4E9CFF&width=500&lines=%F0%9F%94%AD+Technical+leader+and+mentor;%F0%9F%A4%96+Principal+engineer+(full-stack);%F0%9F%93%A3+Conference+and+podcast+speaker;%F0%9F%A5%81+Enthusiastically+bad+drummer)](https://git.io/typing-svg)
 
 ## My languages and tools
-I have full-stack experience with multi-language projects, distributed databases, cloud environments, and containerized applications. Lately I've been focusing on Java & Trino services on Kubernetes, with React/Tailwind UIs.
+I have full-stack experience with multi-language projects, distributed databases, cloud environments, and containerized applications. Lately I've been focusing on Claude integrations, MCP servers, and agents using Java, Trino, and Docker.
 <p align="left">
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
@@ -49,10 +49,11 @@ I have full-stack experience with multi-language projects, distributed databases
 
 ### Trino and databases
 
+* [Trino Community Broadcast 78: A view with a view with a view](https://www.youtube.com/watch?v=ovtTaYKIrQ8) 🎉
 * [Trino Summit 2024: Virtual view hierarchies with Trino](https://youtu.be/z8eh_3vBpvg)
 * [Percona Live: Shifting from capture-first to query-first database architectures](https://youtu.be/buUmoQaRETo)
 * [Percona Live: Why we chose Trino for a primary datastore](https://www.youtube.com/watch?v=ztotHLeWsBo)
-* [Trino Community Broadcast: Trino connector resurfaces API calls](https://www.youtube.com/watch?v=dl5IKimBhrM&t=3s)
+* [Trino Community Broadcast 17: Trino connector resurfaces API calls](https://www.youtube.com/watch?v=dl5IKimBhrM&t=3s)
 
 ### APIs and API security
 
